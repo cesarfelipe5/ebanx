@@ -1,0 +1,27 @@
+[
+  {
+    "amount": 10,
+    "id": "100",
+    "type": "deposit"
+  },
+  {
+    "amount": 10,
+    "id": "100",
+    "type": "deposit"
+  },
+  {
+    "amount": 5,
+    "id": "100",
+    "type": "withdraw"
+  },
+  {
+    "amount": 15,
+    "id": "100",
+    "type": "withdraw"
+  },
+  {
+    "amount": 15,
+    "id": "300",
+    "type": "deposit"
+  }
+]
